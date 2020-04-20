@@ -3,7 +3,7 @@
 ## Lecture Code/Video
 
 ### Mod 1
-
+- Lecture Code [code](https://github.com/learn-co-students/dc-web-042020)
 - 01 Hashketball [code](https://github.com/learn-co-students/dc-web-042020/tree/master/01-hashketball-review) | [video]()
 
 ## Calendar
