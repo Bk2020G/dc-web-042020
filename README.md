@@ -1,4 +1,4 @@
-# dc-web-042020
+# dc-web-042020 DON'T USE THIS:  CORRECT REPO IS AT https://github.com/learn-co-curriculum/dc-seng-042020/blob/master/README.md
 
 ## Lecture Code/Video
 
